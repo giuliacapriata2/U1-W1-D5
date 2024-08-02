@@ -1,16 +1,3 @@
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-}
-
 header {
-  text-align: center;
-  padding: 20px;
-  background-color: #070707;
-  color: white;
-}
-
-.logo {
-  max-width: 100%;
-  height: auto;
+  background-color: black;
 }
