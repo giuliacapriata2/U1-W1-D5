@@ -1,1 +1,6 @@
-/* Your styles here */
+header {
+  background-color: #080808;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
