@@ -1,9 +1,16 @@
-/* Tipografia */
 body {
-  font-family: "Open Sans", sans-serif; /* Font principale */
-  font-size: 1.2rem; /* Dimensione del testo */
-  color: #393d41; /* Colore del testo principale */
-  line-height: 1.65; /* Altezza della linea */
   margin: 0;
-  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #070707;
+  color: white;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
 }
