@@ -1,31 +1,9 @@
-header {
-  background-color: #080808;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
-
-nav {
-  background-image: url("images/banner.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 400px;
-  color: rgb(8, 8, 8);
-  padding: 100px;
-  text-align: center;
-  position: relative;
-}
-
-button {
-  background-color: #f04c2f;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 16px;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
-  text-transform: uppercase;
+/* Tipografia */
+body {
+  font-family: "Open Sans", sans-serif; /* Font principale */
+  font-size: 1.2rem; /* Dimensione del testo */
+  color: #393d41; /* Colore del testo principale */
+  line-height: 1.65; /* Altezza della linea */
+  margin: 0;
+  padding: 0;
 }
